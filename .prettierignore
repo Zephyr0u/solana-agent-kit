@@ -1,4 +1,7 @@
 dist
 node_modules
 docs
+*.md dist
+node_modules
+docs
 *.md 
