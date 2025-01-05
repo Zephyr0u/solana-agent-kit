@@ -6,6 +6,12 @@ labels: bug
 assignees: ''
 
 ---
+To Reproduce Steps to reproduce the behavior:
+
+Go to '...'
+Click on '....'
+Scroll down to '....'
+See error
 
 **Describe the bug**
 A clear and concise description of what the bug is.
